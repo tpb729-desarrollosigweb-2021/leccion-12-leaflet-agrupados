@@ -22,7 +22,7 @@ Para generar el mapa de puntos agrupados, debe crearse un objeto de la clase ```
 
 En el sitio de Leaflet.markercluster puede encontrar más información acerca de [como personalizar el mapa de puntos agrupados](https://github.com/Leaflet/Leaflet.markercluster#options).
 
-Puede ver un ejemplo de un mapa de puntos agrupados en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-agrupados/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-agrupados/).
+Puede ver un ejemplo de un mapa de puntos agrupados con íconos personalizados en [https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-agrupados/](https://tpb729-desarrollosigweb-2021.github.io/ejemplo-mapa-leaflet-agrupados/).
 
 **Ejercicios**  
 1. Utilice los mapas de sus tareas para generar una capa de puntos agrupados con íconos personalizados.
